@@ -34,7 +34,7 @@
 
     <select name="course" id="course" class="form-control mb-3">
         <option value="course">Select Course</option>
-        <optgroup label="Department of Computer Studies">
+        <optgroup label="College of Computer Studies">
             <option value="Bachelof of Science in Computer Science">Bachelof of Science in Computer Science</option>
             <option value="Bachelof of Science in Computer Application">Bachelof of Science in Computer Application</option>
             <option value="Bachelof of Science in Information System">Bachelof of Science in Information System</option>
